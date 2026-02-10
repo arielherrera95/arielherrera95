@@ -9,4 +9,4 @@ Acerca de mí
 
 ### Vias de contacto
 
-![Linkedin](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fariel-blanco-herrera-646aab204%2F)
+www.linkedin.com%2Fin%2Fariel-blanco-herrera-646aab204%2F
