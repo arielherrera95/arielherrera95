@@ -1,15 +1,52 @@
-## Hi there 👋
+👋 ¡Hola!
 
-Acerca de mí
+💡 Diseñador de tratamientos de ortodoncia
+🔐 Estudiante de Ciberseguridad
+📍 Costa Rica
 
-*Ubicación: Costa Rica
-*Puesto/trabajo actual: Diseñador de tratamientos de ortodoncía
-*Aprendizaje actual: Cybersecurity
-*Pregúntame sobre: Fútbol, games y dientes! 
+Sobre mí
 
-### Vias de contacto
+🦷 Profesional en diseño de tratamientos de ortodoncia, enfocado en precisión, análisis y mejora continua.
+💻 Actualmente expandiendo mis habilidades en Cybersecurity, explorando seguridad ofensiva, defensiva y buenas prácticas de protección digital.
+📈 Apasionado por el aprendizaje constante y la tecnología aplicada a la resolución de problemas reales.
 
-[www.linkedin.com%2Fin%2Fariel-blanco-herrera-646aab204%2F](https://www.linkedin.com/in/ariel-blanco-herrera-646aab204/)
+🎯 Siempre buscando combinar salud + tecnología + seguridad digital.
+
+🧠 Actualmente aprendiendo
+
+🔐 Fundamentos de Ciberseguridad
+
+🛡️ Seguridad en redes
+
+🐧 Linux
+
+💻 Programación aplicada a seguridad
+
+⚙️ Automatización y scripting
+
+⚡ Intereses
+
+⚽ Fútbol
+
+🎮 Gaming
+
+🦷 Innovación en odontología
+
+🔐 Seguridad informática
+
+🚀 Tecnología y productividad
+
+🛠️ Tecnologías y herramientas (en crecimiento)
+Cybersecurity | Linux | Git | GitHub | Networking | Scripting
+
+📊 Objetivo profesional
+
+Convertirme en un profesional capaz de integrar conocimientos técnicos en ciberseguridad con pensamiento analítico y precisión profesional, aportando valor tanto en el sector salud como en tecnología.
+
+🌐 Conecta conmigo
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/ariel-blanco-herrera-646aab204/
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
