@@ -50,12 +50,12 @@ https://www.linkedin.com/in/ariel-blanco-herrera-646aab204/
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/arielherrera95/CUARTOREPO/issues/1) in [arielherrera95/CUARTOREPO](https://github.com/arielherrera95/CUARTOREPO)<br>
-2. ❗️ Opened issue [#1](https://github.com/arielherrera95/CUARTOREPO/issues/1) in [arielherrera95/CUARTOREPO](https://github.com/arielherrera95/CUARTOREPO)<br>
-3. ⬆️ Pushed undefined commit(s) to [arielherrera95/arielherrera95](https://github.com/arielherrera95/arielherrera95)<br>
-4. ⬆️ Pushed undefined commit(s) to [arielherrera95/arielherrera95](https://github.com/arielherrera95/arielherrera95)<br>
-5. ⬆️ Pushed undefined commit(s) to [arielherrera95/arielherrera95](https://github.com/arielherrera95/arielherrera95)<br>
+1. ✌️ Released [v0.1.0](https://github.com/arielherrera95/SoftwareRepoRelease/releases/tag/v0.1.0) in [arielherrera95/SoftwareRepoRelease](https://github.com/arielherrera95/SoftwareRepoRelease)<br>
+2. ⬆️ Pushed undefined commit(s) to [arielherrera95/SoftwareRepoRelease](https://github.com/arielherrera95/SoftwareRepoRelease)<br>
+3. ⬆️ Pushed undefined commit(s) to [arielherrera95/CUARTOREPO](https://github.com/arielherrera95/CUARTOREPO)<br>
+4. ✔️ Closed issue [#1](https://github.com/arielherrera95/CUARTOREPO/issues/1) in [arielherrera95/CUARTOREPO](https://github.com/arielherrera95/CUARTOREPO)<br>
+5. ❗️ Opened issue [#1](https://github.com/arielherrera95/CUARTOREPO/issues/1) in [arielherrera95/CUARTOREPO](https://github.com/arielherrera95/CUARTOREPO)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 18th, 2026, 2:34:50 PM
+Last Updated: Thursday, February 19th, 2026, 5:13:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
